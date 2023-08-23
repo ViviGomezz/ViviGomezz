@@ -8,6 +8,14 @@ Mi objetivo al compartir estos proyectos es mostrar ✨ mi progreso ✨ y habili
 
 ¡Gracias por visitar mi repositorio y estaré encantada de recibir tus comentarios y contribuciones! :heart:
 
+puedes contactarme por medio de:
+
+:email: vivianagomez3352@gmail.com
+:telephone_receiver: :colombia: +57 3113258922
+:globe_with_meridians: Linkedin www.linkedin.com/in/viviana-gómez-422168270
+
+
+
 <!--
 **ViviGomezz/ViviGomezz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
