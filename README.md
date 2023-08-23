@@ -6,7 +6,7 @@ Cada proyecto representa un emocionante viaje en el mundo de los datos, donde he
 
 Mi objetivo al compartir estos proyectos es mostrar ✨ mi progreso ✨ y habilidades como Data Scientist, así como destacar mi capacidad para abordar desafíos complejos y presentar resultados de manera clara y concisa. 👯
 
-¡Gracias por visitar mi repositorio y estaré encantado de recibir tus comentarios y contribuciones! :heart:
+¡Gracias por visitar mi repositorio y estaré encantada de recibir tus comentarios y contribuciones! :heart:
 
 <!--
 **ViviGomezz/ViviGomezz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
